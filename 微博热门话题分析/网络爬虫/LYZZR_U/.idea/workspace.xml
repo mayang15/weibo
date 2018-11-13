@@ -1,0 +1,824 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="926e5e37-84d0-4647-9a1b-16b9346147e1" name="Default" comment="" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="TRACKING_ENABLED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CoverageDataManager">
+    <SUITE FILE_PATH="coverage/weiboSpider$consumer.coverage" NAME="consumer Coverage Results" MODIFIED="1528918068065" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/weiboSpider$starto.coverage" NAME="starto Coverage Results" MODIFIED="1528919291729" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/weiboSpider$consumerf.coverage" NAME="consumerf Coverage Results" MODIFIED="1528919161704" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/LYZZR_U$consumerf.coverage" NAME="consumerf Coverage Results" MODIFIED="1528956226591" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/weiboSpider$weibo_redis.coverage" NAME="weibo_redis Coverage Results" MODIFIED="1528921310612" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/src" />
+    <SUITE FILE_PATH="coverage/weiboSpider$start.coverage" NAME="start Coverage Results" MODIFIED="1528918037201" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/LYZZR_U$init.coverage" NAME="init Coverage Results" MODIFIED="1528927602563" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/LYZZR_U$startu.coverage" NAME="startu Coverage Results" MODIFIED="1528956178481" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/LYZZR_U$consumeru.coverage" NAME="consumeru Coverage Results" MODIFIED="1528956184186" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/weiboSpider$redis_cookies.coverage" NAME="redis_cookies Coverage Results" MODIFIED="1528921355711" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/src" />
+    <SUITE FILE_PATH="coverage/LYZZR_U$startf.coverage" NAME="startf Coverage Results" MODIFIED="1528956220992" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/weiboSpider$weibojson.coverage" NAME="weibojson Coverage Results" MODIFIED="1528904441398" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/LYZZR_U$redis_cookies.coverage" NAME="redis_cookies Coverage Results" MODIFIED="1528924860269" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/src" />
+    <SUITE FILE_PATH="coverage/LYZZR_U$consumero.coverage" NAME="consumero Coverage Results" MODIFIED="1528928382236" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/LYZZR_U$starto.coverage" NAME="starto Coverage Results" MODIFIED="1528955634716" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/weiboSpider$init.coverage" NAME="init Coverage Results" MODIFIED="1528917163382" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/weiboSpider$consumero.coverage" NAME="consumero Coverage Results" MODIFIED="1528919323264" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/weiboSpider$startf.coverage" NAME="startf Coverage Results" MODIFIED="1528919131809" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file leaf-file-name="weibo_cn_async.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/weibo_cn_async.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="634">
+              <caret line="74" column="74" lean-forward="false" selection-start-line="74" selection-start-column="74" selection-end-line="74" selection-end-column="74" />
+              <folding>
+                <element signature="e#7429#7992#0" expanded="false" />
+                <element signature="e#8036#8483#0" expanded="false" />
+                <element signature="e#8526#9401#0" expanded="false" />
+                <element signature="e#9439#9829#0" expanded="false" />
+                <element signature="e#11511#15550#0" expanded="false" />
+                <element signature="e#15613#19039#0" expanded="false" />
+                <element signature="e#22104#22926#0" expanded="false" />
+                <element signature="e#22970#24158#0" expanded="false" />
+                <element signature="e#24615#24782#0" expanded="false" />
+                <element signature="e#24834#25077#0" expanded="false" />
+                <element signature="e#25123#25308#0" expanded="false" />
+                <element signature="e#25352#25909#0" expanded="false" />
+                <element signature="e#25959#26435#0" expanded="false" />
+                <element signature="e#26496#26906#0" expanded="false" />
+                <element signature="e#26963#27195#0" expanded="false" />
+                <element signature="e#27263#27656#0" expanded="false" />
+                <element signature="e#27723#31113#0" expanded="false" />
+                <element signature="e#31179#33076#0" expanded="false" />
+                <element signature="e#33140#35186#0" expanded="false" />
+                <element signature="e#35823#36376#0" expanded="false" />
+                <element signature="e#37278#37751#0" expanded="false" />
+                <element signature="e#37814#38297#0" expanded="false" />
+                <element signature="e#39001#39531#0" expanded="false" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="init.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/init.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="324">
+              <caret line="15" column="0" lean-forward="false" selection-start-line="15" selection-start-column="0" selection-end-line="15" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="starto.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/starto.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="189">
+              <caret line="9" column="24" lean-forward="false" selection-start-line="9" selection-start-column="24" selection-end-line="9" selection-end-column="24" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="startf.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/startf.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="243">
+              <caret line="11" column="25" lean-forward="false" selection-start-line="11" selection-start-column="25" selection-end-line="11" selection-end-column="25" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="consumerf.py" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/consumerf.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="135">
+              <caret line="9" column="30" lean-forward="false" selection-start-line="9" selection-start-column="30" selection-end-line="9" selection-end-column="30" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="consumero.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/consumero.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="162">
+              <caret line="10" column="18" lean-forward="false" selection-start-line="10" selection-start-column="18" selection-end-line="10" selection-end-column="18" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="consumeru.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/consumeru.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="135">
+              <caret line="9" column="30" lean-forward="false" selection-start-line="9" selection-start-column="30" selection-end-line="9" selection-end-column="30" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="weibo_cn_async_f.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/weibo_cn_async_f.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="257">
+              <caret line="74" column="74" lean-forward="false" selection-start-line="74" selection-start-column="74" selection-end-line="74" selection-end-column="74" />
+              <folding>
+                <element signature="e#7429#7992#0" expanded="false" />
+                <element signature="e#8036#8483#0" expanded="false" />
+                <element signature="e#8526#9401#0" expanded="false" />
+                <element signature="e#9439#9829#0" expanded="false" />
+                <element signature="e#11511#15550#0" expanded="false" />
+                <element signature="e#15613#19039#0" expanded="false" />
+                <element signature="e#22104#22926#0" expanded="false" />
+                <element signature="e#22970#24158#0" expanded="false" />
+                <element signature="e#24615#24782#0" expanded="false" />
+                <element signature="e#24834#25077#0" expanded="false" />
+                <element signature="e#25123#25308#0" expanded="false" />
+                <element signature="e#25352#25909#0" expanded="false" />
+                <element signature="e#25959#26435#0" expanded="false" />
+                <element signature="e#26496#26906#0" expanded="false" />
+                <element signature="e#26963#27195#0" expanded="false" />
+                <element signature="e#27263#27656#0" expanded="false" />
+                <element signature="e#27723#31113#0" expanded="false" />
+                <element signature="e#31179#33076#0" expanded="false" />
+                <element signature="e#33140#35186#0" expanded="false" />
+                <element signature="e#35823#36376#0" expanded="false" />
+                <element signature="e#37062#37235#0" expanded="false" />
+                <element signature="e#37278#37751#0" expanded="false" />
+                <element signature="e#37814#38297#0" expanded="false" />
+                <element signature="e#39001#39531#0" expanded="false" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="startu.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/startu.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="243">
+              <caret line="11" column="25" lean-forward="false" selection-start-line="11" selection-start-column="25" selection-end-line="11" selection-end-column="25" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>id</find>
+      <find>WeiboProcuder</find>
+      <find>weibo_producer</find>
+      <find>print</find>
+      <find>crawl</find>
+      <find>del</find>
+      <find>follow</find>
+      <find>'fan'</find>
+      <find>topic_job_info</find>
+      <find>setting</find>
+      <find>search_url</find>
+      <find>search</find>
+      <find>fans</find>
+      <find>code</find>
+      <find>c</find>
+      <find>kafka</find>
+      <find>weiboprodu</find>
+      <find>sinaweibo</find>
+      <find>crawl_user</find>
+      <find>grab_html</find>
+      <find>fan_url</find>
+      <find>grab_html2</find>
+      <find>JobType.follower</find>
+      <find>push</find>
+      <find>crawl_follow</find>
+      <find>push_job</find>
+      <find>101</find>
+      <find>topic</find>
+      <find>redis</find>
+      <find>superfan</find>
+    </findStrings>
+    <replaceStrings>
+      <replace>super_fan_job_info</replace>
+    </replaceStrings>
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/user_agents.py" />
+        <option value="$PROJECT_DIR$/conf/logging.conf" />
+        <option value="$PROJECT_DIR$/setting.py" />
+        <option value="$PROJECT_DIR$/src/weibo_async.py" />
+        <option value="$PROJECT_DIR$/src/weibo_cn_async" />
+        <option value="$PROJECT_DIR$/topic_finding.py" />
+        <option value="$PROJECT_DIR$/test.py" />
+        <option value="$PROJECT_DIR$/555.py" />
+        <option value="$PROJECT_DIR$/code_recognize.py" />
+        <option value="$PROJECT_DIR$/consumer_with_ID.py" />
+        <option value="$PROJECT_DIR$/json/data_offset.json" />
+        <option value="$PROJECT_DIR$/consumer_with_offset.py" />
+        <option value="$PROJECT_DIR$/src/login.py" />
+        <option value="$PROJECT_DIR$/conf/containerID" />
+        <option value="$PROJECT_DIR$/weibojson.py" />
+        <option value="$PROJECT_DIR$/consumer.py" />
+        <option value="$PROJECT_DIR$/start.py" />
+        <option value="$PROJECT_DIR$/src/weibo_redis.py" />
+        <option value="$PROJECT_DIR$/init.py" />
+        <option value="$PROJECT_DIR$/conf/account-2.yaml" />
+        <option value="$PROJECT_DIR$/conf/account.yaml" />
+        <option value="$PROJECT_DIR$/src/redis_cookies.py" />
+        <option value="$PROJECT_DIR$/consumero.py" />
+        <option value="$PROJECT_DIR$/src/weibo_cn_async_o.py" />
+        <option value="$PROJECT_DIR$/starto.py" />
+        <option value="$PROJECT_DIR$/src/weibo_cn_async.py" />
+        <option value="$PROJECT_DIR$/consumeru.py" />
+        <option value="$PROJECT_DIR$/startu.py" />
+        <option value="$PROJECT_DIR$/src/weibo_cn_async_f.py" />
+        <option value="$PROJECT_DIR$/consumerf.py" />
+        <option value="$PROJECT_DIR$/startf.py" />
+      </list>
+    </option>
+  </component>
+  <component name="JsBuildToolGruntFileManager" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsBuildToolPackageJson" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsGulpfileManager">
+    <detection-done>true</detection-done>
+    <sorting>DEFINITION_ORDER</sorting>
+  </component>
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="2869" />
+    <option name="y" value="-11" />
+    <option name="width" value="2902" />
+    <option name="height" value="1597" />
+  </component>
+  <component name="ProjectView">
+    <navigator currentView="ProjectPane" proportions="" version="1">
+      <flattenPackages />
+      <showMembers />
+      <showModules />
+      <showLibraryContents />
+      <hideEmptyPackages />
+      <abbreviatePackageNames />
+      <autoscrollToSource />
+      <autoscrollFromSource />
+      <sortByType />
+      <manualOrder />
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="Scope" />
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="LYZZR_U" type="b2602c69:ProjectViewProjectNode" />
+              <item name="LYZZR_U" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="LYZZR_U" type="b2602c69:ProjectViewProjectNode" />
+              <item name="LYZZR_U" type="462c0819:PsiDirectoryNode" />
+              <item name="conf" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="LYZZR_U" type="b2602c69:ProjectViewProjectNode" />
+              <item name="LYZZR_U" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="Scratches" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="Python.consumerf">
+    <configuration name="consumerf" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="weiboSpider" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/consumerf.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+    </configuration>
+    <configuration name="consumeru" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="weiboSpider" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/consumeru.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+    </configuration>
+    <configuration name="startf" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="weiboSpider" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/startf.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+    </configuration>
+    <configuration name="starto" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="weiboSpider" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/starto.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+    </configuration>
+    <configuration name="startu" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="weiboSpider" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/startu.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+    </configuration>
+    <list size="5">
+      <item index="0" class="java.lang.String" itemvalue="Python.starto" />
+      <item index="1" class="java.lang.String" itemvalue="Python.consumeru" />
+      <item index="2" class="java.lang.String" itemvalue="Python.startu" />
+      <item index="3" class="java.lang.String" itemvalue="Python.startf" />
+      <item index="4" class="java.lang.String" itemvalue="Python.consumerf" />
+    </list>
+    <recent_temporary>
+      <list size="5">
+        <item index="0" class="java.lang.String" itemvalue="Python.consumerf" />
+        <item index="1" class="java.lang.String" itemvalue="Python.startf" />
+        <item index="2" class="java.lang.String" itemvalue="Python.consumeru" />
+        <item index="3" class="java.lang.String" itemvalue="Python.startu" />
+        <item index="4" class="java.lang.String" itemvalue="Python.starto" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="ShelveChangesManager" show_recycled="false">
+    <option name="remove_strategy" value="false" />
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="926e5e37-84d0-4647-9a1b-16b9346147e1" name="Default" comment="" />
+      <created>1528630024444</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1528630024444</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="2869" y="-11" width="2902" height="1597" extended-state="6" />
+    <layout>
+      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32867134" sideWeight="0.50208336" order="7" side_tool="true" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="false" weight="0.33" sideWeight="0.5" order="10" side_tool="false" content_ui="tabs" />
+      <window_info id="Python Console" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32867134" sideWeight="0.49861112" order="8" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4090909" sideWeight="0.49791667" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32867134" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.18993056" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Docker" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="false" weight="0.33" sideWeight="0.5" order="11" side_tool="false" content_ui="tabs" />
+      <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="SciView" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.37552446" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+    </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/weibojson.py</url>
+          <line>7</line>
+          <option name="timeStamp" value="25" />
+        </line-breakpoint>
+      </breakpoints>
+      <option name="time" value="68" />
+    </breakpoint-manager>
+    <watches-manager>
+      <configuration name="PythonConfigurationType">
+        <watch expression="self.response_callbacks['PFCOUNT']" />
+        <watch expression="__py_debug_temp_var_1998403370" />
+      </configuration>
+    </watches-manager>
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/user_agents.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="198">
+          <caret line="9" column="46" lean-forward="false" selection-start-line="9" selection-start-column="46" selection-end-line="9" selection-end-column="46" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/login.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="3014">
+          <caret line="152" column="26" lean-forward="true" selection-start-line="152" selection-start-column="26" selection-end-line="152" selection-end-column="26" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/.PyCharmCE2017.3/system/python_stubs/-1922397898/yaml.py" />
+    <entry file="file://H:/python/Lib/site-packages/selenium/webdriver/remote/webelement.py" />
+    <entry file="file://$PROJECT_DIR$/src/weibo_cn_async" />
+    <entry file="file://$PROJECT_DIR$/src/weibo_async.py" />
+    <entry file="file://$APPLICATION_HOME_DIR$/helpers/typeshed/stdlib/3/typing.pyi">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="136">
+          <caret line="350" column="10" lean-forward="true" selection-start-line="350" selection-start-column="10" selection-end-line="350" selection-end-column="10" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://H:/python/Lib/site-packages/yarl/quoting.py" />
+    <entry file="file://H:/python/Lib/asyncio/base_events.py" />
+    <entry file="file://H:/python/Lib/site-packages/aioredis/connection.py" />
+    <entry file="file://H:/python/Lib/site-packages/async_timeout/__init__.py" />
+    <entry file="file://H:/python/Lib/site-packages/requests/sessions.py" />
+    <entry file="file://H:/python/Lib/site-packages/bs4/element.py" />
+    <entry file="file://H:/python/Lib/urllib/request.py" />
+    <entry file="file://H:/python/Lib/site-packages/selenium/webdriver/remote/webdriver.py" />
+    <entry file="file://$PROJECT_DIR$/555.py" />
+    <entry file="file://$PROJECT_DIR$/test.py" />
+    <entry file="file://H:/python/Lib/site-packages/kafka/consumer/group.py" />
+    <entry file="file://H:/python/Lib/ctypes/__init__.py" />
+    <entry file="file://$PROJECT_DIR$/topic_finding.py" />
+    <entry file="file://$PROJECT_DIR$/code_recognize.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="418">
+          <caret line="20" column="40" lean-forward="false" selection-start-line="20" selection-start-column="31" selection-end-line="20" selection-end-column="40" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/json/offset.json" />
+    <entry file="file://$PROJECT_DIR$/json/data_offset.json" />
+    <entry file="file://$PROJECT_DIR$/conf/logging.conf">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="513">
+          <caret line="19" column="21" lean-forward="false" selection-start-line="19" selection-start-column="21" selection-end-line="19" selection-end-column="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/weibojson.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="216">
+          <caret line="9" column="0" lean-forward="true" selection-start-line="9" selection-start-column="0" selection-end-line="9" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/setting.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="486">
+          <caret line="22" column="46" lean-forward="false" selection-start-line="22" selection-start-column="46" selection-end-line="22" selection-end-column="46" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/AppData/Roaming/Python/Python36/site-packages/redis/_compat.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="296">
+          <caret line="81" column="0" lean-forward="false" selection-start-line="81" selection-start-column="0" selection-end-line="81" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$APPLICATION_HOME_DIR$/helpers/pydev/pydevd.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="286">
+          <caret line="1071" column="0" lean-forward="false" selection-start-line="1071" selection-start-column="0" selection-end-line="1071" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$APPLICATION_HOME_DIR$/helpers/pydev/_pydev_imps/_pydev_execfile.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="459">
+          <caret line="17" column="0" lean-forward="false" selection-start-line="17" selection-start-column="0" selection-end-line="17" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/AppData/Roaming/Python/Python36/site-packages/redis/client.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="242">
+          <caret line="1328" column="0" lean-forward="false" selection-start-line="1328" selection-start-column="0" selection-end-line="1328" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/json/data.json" />
+    <entry file="file://$PROJECT_DIR$/conf/containerID">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="162">
+          <caret line="6" column="42" lean-forward="false" selection-start-line="6" selection-start-column="4" selection-end-line="6" selection-end-column="42" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/consumer_with_offset.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="14" column="0" lean-forward="true" selection-start-line="14" selection-start-column="0" selection-end-line="14" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/start.py" />
+    <entry file="file://$PROJECT_DIR$/consumer.py" />
+    <entry file="file://$PROJECT_DIR$/user_agents.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-207">
+          <caret line="9" column="46" lean-forward="false" selection-start-line="9" selection-start-column="46" selection-end-line="9" selection-end-column="46" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/conf/account-2.yaml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="765">
+          <caret line="73" column="0" lean-forward="false" selection-start-line="73" selection-start-column="0" selection-end-line="73" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/conf/account.yaml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="540">
+          <caret line="20" column="0" lean-forward="false" selection-start-line="20" selection-start-column="0" selection-end-line="20" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/login.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="279">
+          <caret line="193" column="20" lean-forward="true" selection-start-line="193" selection-start-column="20" selection-end-line="193" selection-end-column="20" />
+          <folding>
+            <element signature="e#2847#4304#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/redis_cookies.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="243">
+          <caret line="16" column="42" lean-forward="true" selection-start-line="16" selection-start-column="42" selection-end-line="16" selection-end-column="42" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/weibo_redis.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-162">
+          <caret line="14" column="56" lean-forward="false" selection-start-line="14" selection-start-column="56" selection-end-line="14" selection-end-column="56" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/weibo_cn_async_o.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="459">
+          <caret line="74" column="71" lean-forward="false" selection-start-line="74" selection-start-column="71" selection-end-line="74" selection-end-column="71" />
+          <folding>
+            <element signature="e#7428#7991#0" expanded="false" />
+            <element signature="e#8035#8482#0" expanded="false" />
+            <element signature="e#8525#9400#0" expanded="false" />
+            <element signature="e#9438#9828#0" expanded="false" />
+            <element signature="e#11510#15549#0" expanded="false" />
+            <element signature="e#15612#19038#0" expanded="false" />
+            <element signature="e#22103#22925#0" expanded="false" />
+            <element signature="e#22969#24157#0" expanded="false" />
+            <element signature="e#24614#24781#0" expanded="false" />
+            <element signature="e#24833#25076#0" expanded="false" />
+            <element signature="e#25122#25307#0" expanded="false" />
+            <element signature="e#25351#25908#0" expanded="false" />
+            <element signature="e#25958#26434#0" expanded="false" />
+            <element signature="e#26495#26905#0" expanded="false" />
+            <element signature="e#26962#27194#0" expanded="false" />
+            <element signature="e#27262#27655#0" expanded="false" />
+            <element signature="e#27722#31112#0" expanded="false" />
+            <element signature="e#31178#33075#0" expanded="false" />
+            <element signature="e#33139#35185#0" expanded="false" />
+            <element signature="e#35822#36375#0" expanded="false" />
+            <element signature="e#37061#37234#0" expanded="false" />
+            <element signature="e#37277#37750#0" expanded="false" />
+            <element signature="e#37813#38296#0" expanded="false" />
+            <element signature="e#39000#39530#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/init.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="324">
+          <caret line="15" column="0" lean-forward="false" selection-start-line="15" selection-start-column="0" selection-end-line="15" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/consumero.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="162">
+          <caret line="10" column="18" lean-forward="false" selection-start-line="10" selection-start-column="18" selection-end-line="10" selection-end-column="18" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/starto.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="189">
+          <caret line="9" column="24" lean-forward="false" selection-start-line="9" selection-start-column="24" selection-end-line="9" selection-end-column="24" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/weibo_cn_async.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="634">
+          <caret line="74" column="74" lean-forward="false" selection-start-line="74" selection-start-column="74" selection-end-line="74" selection-end-column="74" />
+          <folding>
+            <element signature="e#7429#7992#0" expanded="false" />
+            <element signature="e#8036#8483#0" expanded="false" />
+            <element signature="e#8526#9401#0" expanded="false" />
+            <element signature="e#9439#9829#0" expanded="false" />
+            <element signature="e#11511#15550#0" expanded="false" />
+            <element signature="e#15613#19039#0" expanded="false" />
+            <element signature="e#22104#22926#0" expanded="false" />
+            <element signature="e#22970#24158#0" expanded="false" />
+            <element signature="e#24615#24782#0" expanded="false" />
+            <element signature="e#24834#25077#0" expanded="false" />
+            <element signature="e#25123#25308#0" expanded="false" />
+            <element signature="e#25352#25909#0" expanded="false" />
+            <element signature="e#25959#26435#0" expanded="false" />
+            <element signature="e#26496#26906#0" expanded="false" />
+            <element signature="e#26963#27195#0" expanded="false" />
+            <element signature="e#27263#27656#0" expanded="false" />
+            <element signature="e#27723#31113#0" expanded="false" />
+            <element signature="e#31179#33076#0" expanded="false" />
+            <element signature="e#33140#35186#0" expanded="false" />
+            <element signature="e#35823#36376#0" expanded="false" />
+            <element signature="e#37278#37751#0" expanded="false" />
+            <element signature="e#37814#38297#0" expanded="false" />
+            <element signature="e#39001#39531#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/startu.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="243">
+          <caret line="11" column="25" lean-forward="false" selection-start-line="11" selection-start-column="25" selection-end-line="11" selection-end-column="25" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/consumeru.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="135">
+          <caret line="9" column="30" lean-forward="false" selection-start-line="9" selection-start-column="30" selection-end-line="9" selection-end-column="30" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/weibo_cn_async_f.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="257">
+          <caret line="74" column="74" lean-forward="false" selection-start-line="74" selection-start-column="74" selection-end-line="74" selection-end-column="74" />
+          <folding>
+            <element signature="e#7429#7992#0" expanded="false" />
+            <element signature="e#8036#8483#0" expanded="false" />
+            <element signature="e#8526#9401#0" expanded="false" />
+            <element signature="e#9439#9829#0" expanded="false" />
+            <element signature="e#11511#15550#0" expanded="false" />
+            <element signature="e#15613#19039#0" expanded="false" />
+            <element signature="e#22104#22926#0" expanded="false" />
+            <element signature="e#22970#24158#0" expanded="false" />
+            <element signature="e#24615#24782#0" expanded="false" />
+            <element signature="e#24834#25077#0" expanded="false" />
+            <element signature="e#25123#25308#0" expanded="false" />
+            <element signature="e#25352#25909#0" expanded="false" />
+            <element signature="e#25959#26435#0" expanded="false" />
+            <element signature="e#26496#26906#0" expanded="false" />
+            <element signature="e#26963#27195#0" expanded="false" />
+            <element signature="e#27263#27656#0" expanded="false" />
+            <element signature="e#27723#31113#0" expanded="false" />
+            <element signature="e#31179#33076#0" expanded="false" />
+            <element signature="e#33140#35186#0" expanded="false" />
+            <element signature="e#35823#36376#0" expanded="false" />
+            <element signature="e#37062#37235#0" expanded="false" />
+            <element signature="e#37278#37751#0" expanded="false" />
+            <element signature="e#37814#38297#0" expanded="false" />
+            <element signature="e#39001#39531#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/startf.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="243">
+          <caret line="11" column="25" lean-forward="false" selection-start-line="11" selection-start-column="25" selection-end-line="11" selection-end-column="25" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/consumerf.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="135">
+          <caret line="9" column="30" lean-forward="false" selection-start-line="9" selection-start-column="30" selection-end-line="9" selection-end-column="30" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>
